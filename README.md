@@ -13,12 +13,6 @@ A Java Swing-based Course Scheduler application that allows academic administrat
 
 ---
 
-## 📸 UI Preview
-
-![Course Scheduler Screenshot](./relative/path/to/your/screenshot.png)
-
----
-
 ## 🔑 Features
 
 ### 👨‍💼 Admin Functionalities
